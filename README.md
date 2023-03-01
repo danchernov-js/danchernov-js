@@ -1,4 +1,3 @@
-- 👋 Hello everybody! My name is Daniel and i'm a beginner frontend-developer.
-- 👀 I’m very interested in a new job in IT!
-- 🌱 Stack: html, css (scss, flex), javascript (+ vue.js, vue-router, vuex, vue-cli), npm, webpack.
+- 👋 Hello everybody! My name is Daniel and i'm a frontend-developer.
+- 🌱 Stack: TypeScript, Vue 2/3, Nuxt.
 - 📫 You can text me on telegram or instagram @danchernov
